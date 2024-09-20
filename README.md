@@ -21,3 +21,10 @@ This page highlights trends over time and key insights derived from the data, he
 
 ![Logo](./Images/Page3.png)
 
+### Conclusion
+This Power BI dashboard delivers an in-depth analysis of diversity and inclusion within the organization by utilizing a comprehensive set of metrics. It examines areas such as gender distribution, performance ratings, promotion and turnover rates, and demographic details. The report sheds light on both successes and areas for improvement in creating a more inclusive workplace. The insights gathered from this analysis serve as a valuable resource for shaping strategic decisions and initiatives to strengthen diversity and inclusion efforts.
+
+
+
+
+
