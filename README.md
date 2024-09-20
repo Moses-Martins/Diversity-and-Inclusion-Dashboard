@@ -11,5 +11,5 @@ This repository contains a Power BI dashboard focused on diversity and inclusion
 ### Screenshot
 This page provides a high-level summary of diversity and inclusion metrics, including gender distribution and overall performance ratings.
 
-
+![Logo](./Images/Page1.png)
 
