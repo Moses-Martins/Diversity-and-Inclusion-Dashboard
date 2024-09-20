@@ -8,8 +8,14 @@ This repository contains a Power BI dashboard focused on diversity and inclusion
 - **Demographic Analysis:** Age distribution and regional diversity of employees.
 - **Departmental Insights:** Performance review assessment (PRA) statuses by department and job level.
 
-### Screenshot
+### Dashboards
 This page provides a high-level summary of diversity and inclusion metrics, including gender distribution and overall performance ratings.
 
 ![Logo](./Images/Page1.png)
+#
+This page dives deeper into specific metrics such as promotion rates, employee turnover, and demographic breakdowns by department and job level.
+![Logo](./Images/Page2.png)
+#
+This page highlights trends over time and key insights derived from the data, helping to identify areas of improvement and success in diversity and inclusion efforts.
+![Logo](./Images/Page3.png)
 
