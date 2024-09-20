@@ -1,7 +1,7 @@
 ## Diversity-and-Inclusion-Dashboard
-###Overview
+### Overview
 This repository contains a Power BI dashboard focused on diversity and inclusion metrics within the organization. By highlighting key areas, the report provides stakeholders with clear insights into the organization’s current diversity landscape and tracks progress over time, supporting informed decision-making in these critical areas.
-###Key Metrics
+### Key Metrics
 - **Gender Distribution:** Breakdown of male and female employees across different job levels.
 - **Performance Ratings:** Average performance ratings for male and female employees.
 - **Promotions and Turnover:** Analysis of promotion rates and turnover rates by gender and job level.
