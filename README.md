@@ -14,8 +14,10 @@ This page provides a high-level summary of diversity and inclusion metrics, incl
 ![Logo](./Images/Page1.png)
 #
 This page dives deeper into specific metrics such as promotion rates, employee turnover, and demographic breakdowns by department and job level.
+
 ![Logo](./Images/Page2.png)
 #
 This page highlights trends over time and key insights derived from the data, helping to identify areas of improvement and success in diversity and inclusion efforts.
+
 ![Logo](./Images/Page3.png)
 
